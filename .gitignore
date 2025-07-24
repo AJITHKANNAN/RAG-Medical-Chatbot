@@ -1,0 +1,5 @@
+med_rag/
+logs/
+RAG_Medical_Chatbot.egg-info/
+Materials/
+.env
